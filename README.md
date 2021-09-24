@@ -7,6 +7,14 @@ HW 4 NW Bootcamp
 
 addl observation: Smaller schools (schools with less students) tend to perform better than larger schools (schools with more students).
 
+
+*one issue: My code on the jupyter notebook output on the "Scores by Spending" shows to be correct but when I look at it on
+GitHub it looks a bit convoluted. I was unable to overcome this on my own.
+
+I did use a full tutoring session to assist.
+
+
+
 Below are the intructions:
 
 
